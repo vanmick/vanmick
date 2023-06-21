@@ -1,6 +1,6 @@
 👋 Hello, World! I'm Michael, a passionate JavaScript Full Stack Developer from the vibrant land of Ethiopia 🇪🇹. Welcome to my GitHub repository!
 
-🚀 As a tech enthusiast, I thrive on exploring the endless possibilities of the digital world.
+🚀 As a tech enthusiast.
 
 📚 Learning is my fuel. I constantly embrace new technologies, frameworks, and tools to stay ahead in this ever-evolving industry. 
 The thrill of acquiring knowledge and putting it into practice fuels my desire to grow and improve every day.
